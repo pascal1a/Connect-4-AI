@@ -2,7 +2,7 @@
 
 **Description**
 
-This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a certain sscoring system. 
+This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a certain sscoring system.A detailed description of the individual steps can be found as as comments in the code. 
 
 
 **Instructions**
