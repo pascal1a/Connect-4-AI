@@ -2,8 +2,34 @@
 
 **Description**
 
-This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a certain sscoring system.A detailed description of the individual steps can be found as as comments in the code. 
+This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a scoring system. A detailed explanation of the minimax alogrithm can be found here:  https://en.wikipedia.org/wiki/Minimax#Pseudocode. The AI with a depth of 4 calculates different possibilities of the next four moves in advance and tries to choose the best one.  The code consists of the following 12 functions:
 
+-def draw_text(text, color, surface, x, y,size):
+
+-def menu():
+
+-def circle():
+
+-def check_game_end():
+
+-def animation(disc_number, mouse_pos_x = 0):
+
+-def draw(position, disc_number,col):
+
+-def possible_moves_func():
+
+-def scoring(board_copy):
+
+-def AI_opponent(board_copy, depth,alpha, beta, maximizingPlayer):
+
+-def player_win(board):
+
+-def opponent_win(board):
+
+
+
+
+The A detailed description of the individual steps can be found as as comments in the code.
 
 **Instructions**
 
