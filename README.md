@@ -4,29 +4,29 @@
 
 This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a scoring system. A detailed explanation of the minimax alogrithm can be found here:  https://en.wikipedia.org/wiki/Minimax#Pseudocode. The AI with a depth of 4 calculates different possibilities of the next four moves in advance and tries to choose the best one.  The code consists of the following 12 functions:
 
--def draw_text(text, color, surface, x, y,size):
+-def draw_text(text, color, surface, x, y,size): standard function to draw text in pygames
 
--def menu():
+-def menu(): function to create a simple menu
 
--def circle():
+-def game(): function that runs the game
 
--def check_game_end():
+-def circle(): function that draws the physical playing field including the grid
 
--def animation(disc_number, mouse_pos_x = 0):
+-def check_game_end(): function that checks if there are 4 discs vertically, horizontally or diagonally
 
--def draw(position, disc_number,col):
+-def animation(disc_number, mouse_pos_x = 0): function that checks the current mouseposition and drops the dics in the corresponding column
 
--def possible_moves_func():
+-def draw(position, disc_number,col): function that dynamically draws  the dropped discs
 
--def scoring(board_copy):
+-def possible_moves_func(): function that checks all possible moves
 
--def AI_opponent(board_copy, depth,alpha, beta, maximizingPlayer):
+-def scoring(board_copy):function that evaluates and scores the current position
 
--def player_win(board):
+-def AI_opponent(board_copy, depth,alpha, beta, maximizingPlayer): function that creates our AI to play against
 
--def opponent_win(board):
+-def player_win(board):function that checks if the player has  4 discs vertically, horizontally or diagonally
 
-
+-def opponent_win(board):function that checks if the opponent has  4 discs vertically, horizontally or diagonally
 
 
 The A detailed description of the individual steps can be found as as comments in the code.
