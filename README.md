@@ -1,6 +1,6 @@
 # Connect-4-AI
 
-![](Connect-4-AI/AI%20spaces.jpg)
+![](main/AI.jpg)
 
 Sources:
 https://pastebin.com/XDQyDZUd
