@@ -1,4 +1,5 @@
 # Connect-4-AI
+![Screenshot](AI.png)
 
 
 Sources:
