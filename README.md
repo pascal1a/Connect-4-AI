@@ -1,5 +1,5 @@
 # Connect-4-AI
-![Screenshot](AI.png)
+![AI](AI.pjpg)
 
 
 Sources:
