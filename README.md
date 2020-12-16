@@ -1,6 +1,6 @@
 # Connect-4-AI
 
-![](AI%20.png)
+![](AI%20.jpg)
 
 Sources:
 https://pastebin.com/XDQyDZUd
