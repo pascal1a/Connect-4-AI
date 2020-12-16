@@ -1,5 +1,7 @@
 **Connect-4-AI**
 
+![AI2](https://user-images.githubusercontent.com/66219569/102391818-82815f80-3fd6-11eb-8bbc-d8c75014f19e.jpg)
+
 **Description**
 
 This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a scoring system. A detailed explanation of the minimax alogrithm can be found here:  https://en.wikipedia.org/wiki/Minimax#Pseudocode. The AI with a depth of 4 calculates different possibilities of the next four moves in advance and tries to choose the best one.  The code consists of the following 12 functions:
@@ -42,12 +44,7 @@ To run it locally the following steps are required:
       
       3.Download the file Connect4.py and execute it
       
-  
-
-
-
-
-![AI2](https://user-images.githubusercontent.com/66219569/102391818-82815f80-3fd6-11eb-8bbc-d8c75014f19e.jpg)
+ 
 
 **Sources**:
 
