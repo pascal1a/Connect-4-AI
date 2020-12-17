@@ -44,6 +44,7 @@ To run it locally the following steps are required:
       
       3.Download the file Connect4.py and execute it
       
+      4. Press the play button to start the game
  
 
 **Sources**:
