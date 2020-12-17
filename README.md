@@ -4,7 +4,7 @@
 
 **Description**
 
-This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a scoring system. A detailed explanation of the minimax alogrithm can be found here:  https://en.wikipedia.org/wiki/Minimax#Pseudocode. The AI with a depth of 4 calculates different possibilities of the next four moves in advance and tries to choose the best one.  The code consists of the following 12 functions:
+This program allows you to play a simple Connect-4 game against an AI in python. The AI is based on the minimax algorithm with a scoring system. A detailed explanation of the minimax alogrithm can be found here:  https://en.wikipedia.org/wiki/Minimax#Pseudocode. The code consists of the following 12 functions:
 
 -def draw_text(text, color, surface, x, y,size): standard function to draw text in pygames
 
