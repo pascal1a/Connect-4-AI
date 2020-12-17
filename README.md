@@ -35,7 +35,7 @@ The A detailed description of the individual steps can be found as as comments i
 
 **Instructions**
 
-The program can be  executed online or locally on python. For the online version use the following link:              .
+The program can be  executed online or locally on python. For the online version please use the following link: https://trinket.io/library/trinkets/d969ddbe6f             .
 To run it locally the following steps are required:
 
       1. Make sure the following packages are avaiable: time, math, random and sys
