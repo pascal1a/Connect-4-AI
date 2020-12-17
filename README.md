@@ -16,9 +16,9 @@ This program allows you to play a simple Connect-4 game against an AI in python.
 
 -def check_game_end(): function that checks if there are 4 discs vertically, horizontally or diagonally
 
--def animation(disc_number, mouse_pos_x = 0): function that checks the current mouseposition and drops the dics in the corresponding column
+-def animation(disc_number, mouse_pos_x = 0): function that checks the current mouseposition and drops the discs in the corresponding column
 
--def draw(position, disc_number,col): function that dynamically draws  the dropped discs
+-def draw(position, disc_number,col): function that dynamically draws the dropped discs
 
 -def possible_moves_func(): function that checks all possible moves
 
@@ -31,7 +31,7 @@ This program allows you to play a simple Connect-4 game against an AI in python.
 -def opponent_win(board):function that checks if the opponent has  4 discs vertically, horizontally or diagonally
 
 
-The A detailed description of the individual steps can be found as as comments in the code.
+A detailed description of the individual steps can be found as as comments in the code.
 
 **Instructions**
 
