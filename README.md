@@ -31,20 +31,6 @@ This program allows you to play a simple Connect-4 game against an AI in python.
 -def opponent_win(board):function that checks if the opponent has  4 discs vertically, horizontally or diagonally
 
 
-A detailed description of the individual steps can be found as as comments in the code.
-
-**Instructions**
-
-The program can be  executed online or locally on python. For the online version please use the following link: https://trinket.io/library/trinkets/d969ddbe6f             .
-To run it locally the following steps are required:
-
-      1. Make sure the following packages are avaiable: time, math, random and sys
-      
-      2.Install the pygame package (pip install pygame)
-      
-      3.Download the file Connect4.py and execute it
-      
-      4. Press the play button to start the game
  
 
 **Sources**:
